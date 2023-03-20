@@ -29,6 +29,10 @@ You can install these dependencies using pip, by running the following command:
 Clone this repository to your local machine:
 
     git clone https://github.com/<username>/attendance-system.git
+    
+Create two directories named "Attendance" and "Faces" in the project directory.
+
+Inside the "Faces" directory, create two directories named "train" and "val".
 
 Run the "Taking Photos(Training).ipynb" notebook to capture images of the people you want to recognize and train the model.
 
